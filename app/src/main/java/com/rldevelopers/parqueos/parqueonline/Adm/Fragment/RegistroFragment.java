@@ -16,8 +16,6 @@ import com.rldevelopers.parqueos.parqueonline.R;
 public class RegistroFragment extends Fragment implements View.OnClickListener {
 
 
-
-
     public RegistroFragment() {
         // Required empty public constructor
     }
@@ -28,7 +26,7 @@ public class RegistroFragment extends Fragment implements View.OnClickListener {
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
         View view = inflater.inflate(R.layout.adm_fragment_registro, container, false);
-      //  prefsLogin = getContext().getSharedPreferences("PrefsLogin", Context.MODE_PRIVATE);
+        //  prefsLogin = getContext().getSharedPreferences("PrefsLogin", Context.MODE_PRIVATE);
         BindUi(view);
         return view;
     }
