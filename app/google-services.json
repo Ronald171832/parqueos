@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "9020256602",
+    "firebase_url": "https://parqueo-4b65f.firebaseio.com",
+    "project_id": "parqueo-4b65f",
+    "storage_bucket": "parqueo-4b65f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9020256602:android:386d49518c4096f2",
+        "android_client_info": {
+          "package_name": "com.rldevelopers.parqueos.parqueonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9020256602-ojgqm261dpvllq95vrvn2bf49qbd6780.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rldevelopers.parqueos.parqueonline",
+            "certificate_hash": "8290a61faa30b6657462be1e6f54b385e1340c8c"
+          }
+        },
+        {
+          "client_id": "9020256602-ekucad6apnnfrout1qo78bcq6oe9lie9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8W-1te0pFqVdLeQNzXeu9L3xVWD76K2k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9020256602-ekucad6apnnfrout1qo78bcq6oe9lie9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
