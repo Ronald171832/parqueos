@@ -64,7 +64,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
                 .add(new LatLng(37.35, -122.0), new LatLng(37.45, -122.0), new LatLng(37.45, -122.2),
                         new LatLng(37.35, -122.2),
                         new LatLng(37.35, -122.0));
-//holllaaaaaaaa
+//holllaaaaaaaazzz
         mMap.addPolygon(rectOptions).setClickable(true);
 
         Polyline line = mMap.addPolyline(new PolylineOptions()
