@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_mapa"
+        android:icon="@drawable/mapa"
+        android:title="Mapa Parqueos" />
+    <item
+        android:id="@+id/nav_lista_parqueos"
+        android:icon="@drawable/lista"
+        android:title="Lista Parqueos" />
+    <!-- <item
+         android:id="@+id/nav_carrito"
+         android:icon="@drawable/carrito"
+         android:title="Mi carrito"/>-->
+    <item
+        android:id="@+id/nav_perfil"
+        android:icon="@drawable/perfil"
+        android:title="Perfil" />
+</menu>
